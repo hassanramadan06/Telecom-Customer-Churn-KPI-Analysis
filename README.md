@@ -1,5 +1,4 @@
 # Telecom-Customer-Churn-KPI-Analysis
-# WE Telecom Power BI Dashboard
 
 ## Project Overview
 
